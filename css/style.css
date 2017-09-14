@@ -43,6 +43,9 @@ h1 {
   text-align: center;
   font-family: 'Amatica SC', cursive;
 }
+.center {
+  text-align: center;
+}
 
 h4 {
   font-weight: lighter;
