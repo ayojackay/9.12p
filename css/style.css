@@ -65,15 +65,26 @@ h4 {
 
 /*pic column */
 .pic {
-
+float: left;
+}
+.op { /*opacity*/
+  opactiy: 0.5;
 }
 
 .p-list {
 list-style: none;
 }
 
+.f-back { /*form background*/
+  background-image: url("http://data.whicdn.com/images/284530422/large.jpg");
+  background-position: center;
+  background-repeat: none;
+  background-size: contain;
+}
 /*end*/
-
+iframe {
+  opacity: 0.8;
+}
 .col-md-4 {
   height: 50px;
 }
